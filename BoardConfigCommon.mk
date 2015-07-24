@@ -148,3 +148,6 @@ BOARD_SEPOLICY_UNION += \
 
 # Time services
 BOARD_USES_QC_TIME_SERVICES := true
+
+# LZMA
+WITH_LZMA_OTA := true
